@@ -24,3 +24,7 @@ Scripts, links and build guide for an ATX case-based home NAS running Ubuntu and
 * Sync script
 * `zc` guide
 * What to alert on
+
+## Docker on ZFS
+
+* [Guide from Docker on ZFS Storage Driver](https://docs.docker.com/storage/storagedriver/zfs-driver/)
