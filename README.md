@@ -1,9 +1,7 @@
 # Ubuntu 20.04 OpenZFS Home NAS
 Scripts, links and build guide for an ATX case-based home NAS running Ubuntu and ZFS
 
-# Illustration of Sample System
-Created in Inkscape, should be fully editable in Inkscape 1.0+
-![Illustration of a sample ZFS twoer install with 8 drives, a PCIe to NVMe card, HBA and 10gige NIC](./zfs_atx_vectors.svg)
+![]./(zfs_atx.JPG)
 
 ## Scripts
 
@@ -33,3 +31,7 @@ Created in Inkscape, should be fully editable in Inkscape 1.0+
 ## Docker on ZFS
 
 * [Guide from Docker on ZFS Storage Driver](https://docs.docker.com/storage/storagedriver/zfs-driver/)
+
+# Illustration of Sample System
+Created in Inkscape, should be fully editable in Inkscape 1.0+
+![Illustration of a sample ZFS twoer install with 8 drives, a PCIe to NVMe card, HBA and 10gige NIC](./zfs_atx_vectors.svg)
