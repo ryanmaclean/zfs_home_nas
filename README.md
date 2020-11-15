@@ -1,7 +1,7 @@
 # Ubuntu 20.04 OpenZFS Home NAS
 Scripts, links and build guide for an ATX case-based home NAS running Ubuntu and ZFS
 
-![]./(zfs_atx.JPG)
+![](./zfs_atx.JPG)
 
 ## Scripts
 
