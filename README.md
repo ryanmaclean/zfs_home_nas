@@ -1,7 +1,7 @@
 # Ubuntu 20.04 OpenZFS Home NAS
 Scripts, links and build guide for an ATX case-based home NAS running Ubuntu and ZFS
 
-![](./zfs_atx.JPG)
+![](./zfs_atx_vectors.svg)
 
 ## Scripts
 
@@ -34,4 +34,4 @@ Scripts, links and build guide for an ATX case-based home NAS running Ubuntu and
 
 # Illustration of Sample System
 Created in Inkscape, should be fully editable in Inkscape 1.0+
-![Illustration of a sample ZFS twoer install with 8 drives, a PCIe to NVMe card, HBA and 10gige NIC](./zfs_atx_vectors.svg)
+![Illustration of a sample ZFS twoer install with 8 drives, a PCIe to NVMe card, HBA and 10gige NIC](./zfs_atx.JPG)
